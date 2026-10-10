@@ -51,7 +51,7 @@ Each source page identifies the image as free under the Unsplash license: https:
 
 ## Delivery state
 
-Completed local template; not publicly deployed. `QA.md` records checks. Owner content and contact configuration are needed before real enquiries or publication.
+Published preview on GitHub Pages: https://unleashededits.github.io/event-studio-template/\n\nRepository: https://github.com/UnleashedEdits/event-studio-template\n\nPages serves the root of the main branch with HTTPS. This is a template preview with noindex controls intact. `QA.md` records checks. Owner content and contact configuration are needed before real enquiries or publication.
 
 ## Design and motion
 

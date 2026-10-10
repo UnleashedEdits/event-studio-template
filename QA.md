@@ -12,7 +12,7 @@ Passed:
 
 Browser QA used the already installed Playwright and Chromium outside the shipped folder. The website has no runtime dependencies.
 
-Not configured: public deployment, real recipient receipt, owner facts/media approval, production privacy and policies. Preview remains noindex. Recheck contrast when changing brand colors.
+Not configured: real recipient receipt, owner facts/media approval, production privacy and policies. Preview remains noindex. Recheck contrast when changing brand colors.
 
 ## Design and motion revision
 
@@ -21,3 +21,4 @@ Not configured: public deployment, real recipient receipt, owner facts/media app
 - Rechecked 320/390/768/1280/1920px: no horizontal overflow or clipped headline text, all reveal elements became visible after scrolling.
 - Reduced-motion mode keeps every reveal visible and removes entrance/transformation motion. Warm and cinematic palettes checked.
 - Event/service filters, gallery/Escape, enquiry draft, mobile navigation and JavaScript syntax rechecked: passed.
+\n\n## GitHub Pages deployment\n\nPublished 2026-10-10 at https://unleashededits.github.io/event-studio-template/. GitHub Pages build/deploy run 38037672769 succeeded for commit 7a5767d771aa4fadc62ddb80daaf39f56e3fab36. Verified live portfolio filtering and gallery, HTTPS page rendering, and SHA-256 matches for the served hero image and application JavaScript. Owner placeholders and noindex remain intact.\n
